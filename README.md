@@ -5,3 +5,5 @@
 Combine pre-trained word embedding models for different languages to vectorise multi-language documents.
 
 https://pypi.org/project/transvec/
+
+https://github.com/big-o/transvec
