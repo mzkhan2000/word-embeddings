@@ -9,3 +9,7 @@ Combine pre-trained word embedding models for different languages to vectorise m
 https://pypi.org/project/transvec/
 
 https://github.com/big-o/transvec
+
+####word2vec-translation-matrix
+
+https://github.com/n8686025/word2vec-translation-matrix
