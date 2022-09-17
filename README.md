@@ -28,6 +28,8 @@ https://github.com/big-o/transvec
 
 #### word2vec-translation-matrix
 
+https://github.com/RaRe-Technologies/gensim/blob/ee3d6fd1e33fe39fc7aa31ebd56bd63b1a2a2ed6/gensim/models/translation_matrix.py
+
 https://github.com/n8686025/word2vec-translation-matrix
 
 #### word2vec-translation-matrix
