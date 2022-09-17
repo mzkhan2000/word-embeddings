@@ -36,6 +36,8 @@ https://github.com/n8686025/word2vec-translation-matrix
 
 https://github.com/RaRe-Technologies/gensim/blob/develop/gensim/models/translation_matrix.py
 
+#### Translation Matrix Tutorial
+
 https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/translation_matrix.ipynb
 
 https://github.com/n8686025/word2vec-translation-matrix
