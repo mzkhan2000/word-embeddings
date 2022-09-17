@@ -10,6 +10,6 @@ https://pypi.org/project/transvec/
 
 https://github.com/big-o/transvec
 
-####word2vec-translation-matrix
+#### word2vec-translation-matrix
 
 https://github.com/n8686025/word2vec-translation-matrix
