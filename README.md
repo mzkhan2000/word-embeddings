@@ -29,3 +29,21 @@ https://github.com/big-o/transvec
 #### word2vec-translation-matrix
 
 https://github.com/n8686025/word2vec-translation-matrix
+
+#### word2vec-translation-matrix
+
+https://github.com/RaRe-Technologies/gensim/blob/develop/gensim/models/translation_matrix.py
+
+https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/translation_matrix.ipynb
+
+https://github.com/n8686025/word2vec-translation-matrix
+
+https://github.com/benstaf/word2vec
+
+https://gist.github.com/bcleenders/f450621e3f8d828ef755
+
+Resources:
+
+Tomas Mikolov, Quoc V Le, Ilya Sutskever. 2013. Exploiting Similarities among Languages for Machine Translation
+
+Georgiana Dinu, Angelikie Lazaridou and Marco Baroni. 2014. Improving zero-shot learning by mitigating the hubness problem
