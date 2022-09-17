@@ -3,6 +3,22 @@
 
 https://github.com/topics/word-embedding
 
+#### Word2Vec  Embeddings github
+https://github.com/tmikolov/word2vec
+
+https://github.com/RaRe-Technologies/gensim/blob/ee3d6fd1e33fe39fc7aa31ebd56bd63b1a2a2ed6/gensim/models/keyedvectors.py#L687
+
+https://github.com/RaRe-Technologies/gensim/blob/develop/gensim/models/word2vec.py#L1290
+
+#### Word2Vec KeyedVectors
+https://radimrehurek.com/gensim/models/keyedvectors.html
+
+####  Gensim-data
+https://github.com/RaRe-Technologies/gensim-data
+
+#### Migrating from Gensim 3.x to 4
+https://github.com/RaRe-Technologies/gensim/wiki/Migrating-from-Gensim-3.x-to-4
+
 #### Transve: 
 Combine pre-trained word embedding models for different languages to vectorise multi-language documents.
 
